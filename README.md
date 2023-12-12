@@ -1,5 +1,5 @@
 <h2 align="center">
-  👋 Hi, I'm Nitin, <i>A Software Developer + BA </i>
+  👋 Hi, I'm Nitin, <i>A Software Developer + Jr.BA </i>
 </h2>
 
 - 🌱 I’m currently learning *Machine Learning*
