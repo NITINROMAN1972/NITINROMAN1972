@@ -11,7 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/milindkhamkar" target="blank"  textDecoration="none">
+  <a href="https://www.linkedin.com/in/nitin-roman-126114267/" target="blank"  textDecoration="none">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
       alt="milindkhamkar" height="30" width="40"/>
   </a>   &nbsp; &nbsp;
