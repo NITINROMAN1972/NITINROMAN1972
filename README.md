@@ -16,11 +16,11 @@
       alt="milindkhamkar" height="30" width="40"/>
   </a>   &nbsp; &nbsp;
   <!-- GitHub -->
-  <a href="https://github.com/Millstack" target="blank">
+  <a href="https://github.com/NITINROMAN1972" target="blank">
     <img align="center" src="https://seeklogo.com/images/G/github-logo-2E3852456C-seeklogo.com.png" alt="milindkhamkar" height="40" width="40" />
   </a> &nbsp; &nbsp;
   <!-- Mail -->
-  <a href="mailto:khamkarmilind101@gmail.com" target="blank">
+  <a href="mailto:romannitin5@gmail.com" target="blank">
     <img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png"                 
       alt="milindkhamkar" height="40" width="40" />
   </a> &nbsp; &nbsp;
