@@ -3,8 +3,8 @@
 </h2>
 
 - 🌱 I’m currently learning *Machine Learning*
-- 💞️ I have learned *Java, **ASP.NET, **Python*
-- 👀 I’m interested in *Full Stack Development*
+- 💞️ I have learned *Java, **ASP.NET, <!--,**Python*
+//- 👀 I’m interested in *Full Stack Development*-->
 
 <hr/> 
 
