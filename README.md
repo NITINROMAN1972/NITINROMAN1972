@@ -13,16 +13,16 @@
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/nitin-roman-126114267/" target="blank"  textDecoration="none">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-      alt="milindkhamkar" height="30" width="40"/>
+      alt="nitinroman" height="30" width="40"/>
   </a>   &nbsp; &nbsp;
   <!-- GitHub -->
   <a href="https://github.com/NITINROMAN1972" target="blank">
-    <img align="center" src="https://seeklogo.com/images/G/github-logo-2E3852456C-seeklogo.com.png" alt="milindkhamkar" height="40" width="40" />
+    <img align="center" src="https://seeklogo.com/images/G/github-logo-2E3852456C-seeklogo.com.png" alt="nitinroman" height="40" width="40" />
   </a> &nbsp; &nbsp;
   <!-- Mail -->
   <a href="mailto:romannitin5@gmail.com" target="blank">
     <img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png"                 
-      alt="milindkhamkar" height="40" width="40" />
+      alt="nitinroman" height="40" width="40" />
   </a> &nbsp; &nbsp;
 </p> 
 
